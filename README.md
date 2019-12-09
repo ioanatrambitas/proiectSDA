@@ -1,1 +1,2 @@
 # proiectSDA
+#oreo wrote this
